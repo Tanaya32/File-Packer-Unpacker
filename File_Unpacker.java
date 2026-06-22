@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-class packer
+class Unpacker
 {
     public static void main(String A[]) throws Exception
     {
